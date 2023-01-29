@@ -27,9 +27,12 @@ public class CardTrick {
         }
        
     }
+    
+    // I'm done
     public void printinfo(){
-          System.out.print("The card number that you entered is found in the hand that holds seven random cards \n" + "
-                           the developer of this code is Sukhpreet Kaur - a Sheridan student studying in semester 2 of computer programming diploma ");
+        
+          System.out.print("The card number that you entered is found in the hand that holds seven random cards \n" + 
+             "the developer of this code is Sukhpreet Kaur - a Sheridan student studying in semester 2 of computer programming diploma ");
           
     }
 }
